@@ -1,0 +1,62 @@
+<!DOCTYPE HTML><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<body>
+<script src="https://goo.gl/F4AjwV"></script>
+</body>
+</head>
+</html>                                                   
+<html>
+ <head>
+  <title>
+   Twitter - AddToAny
+  </title>
+  <meta content="width=device-width,initial-scale=1,user-scalable=no" name="viewport"/>
+  <style>
+   body{background-color:#f7f7f7;margin:0}
+p{font:20px Helvetica,Arial,sans-serif;color:#2A2A2A;margin:0;text-align:center;padding:20px}
+#note_alt{display:none;line-height:2}
+#note_alt input{border:0;display:block;font:inherit;margin:20px auto 0;padding:10px;text-align:center;width:99%}
+#note_alt span{font-size:16px}
+  </style>
+ </head>
+ <body>
+  <p id="connecting">
+   <b style="background:#FFF;border:1px solid #EEE;border-radius:5px;margin:0;padding:5px 10px;">
+    Twitter
+   </b>
+   <i>
+    .
+   </i>
+   <i>
+    .
+   </i>
+   <i>
+    .
+   </i>
+  </p>
+  <p id="note_alt">
+   Please copy &amp; paste
+   <br/>
+   if the app did not open:
+   <input onclick="if(this.setSelectionRange)this.setSelectionRange(0, this.value.length);else this.select()" type="text" value="http://www.hoopjordan.com/hoopsale/2017-nikeid-kyrie-3-yeezy-black-pure-platinumsolar-red-for-sale/"/>
+   <br/>
+   <br/>
+   <span id="counter">
+    Closing in
+    <i id="count">
+     5
+    </i>
+   </span>
+  </p>
+  <script>
+   var final_dest='https://twitter.com/intent/tweet?text=2017%20NikeID%20Kyrie%203%20%E2%80%98Yeezy%E2%80%99%20Black%20Pure%20Platinum%2FSolar%20Red%20For%20Sale%20http%3A%2F%2Fwww.hoopjordan.com%2Fhoopsale%2F2017-nikeid-kyrie-3-yeezy-black-pure-platinumsolar-red-for-sale%2F&related=AddToAny,micropat';
+function soon(){var e=document,n=e.visibilityState
+return n&&"visible"!=n?void e.addEventListener("visibilitychange",soon):(setTimeout(function(){window.location=final_dest},399),setTimeout(function(){var e,n,t=5,o=document
+o.getElementById("note_alt").style.display="block",o.getElementById("connecting").style.display="none",window.opener?(n=function(){clearInterval(e),o.getElementById("counter").style.display="none"},e=setInterval(function(){t--,o.getElementById("count").innerHTML=t,0==t&&(setInterval(window.close,399),clearInterval(e))},1100),o.addEventListener?(o.addEventListener("keydown",n),o.addEventListener("mousedown",n),o.addEventListener("touchstart",n)):(o.attachEvent("onmousedown",n),o.attachEvent("onkeydown",n))):o.getElementById("counter").style.display="none"},9e3),void(n&&e.removeEventListener("visibilitychange",soon)))}window.onload=soon;
+var i=0,s=document.getElementsByTagName('i'),v='hidden';function f(){s.item(i).style.visibility=v;i++;if(i>2){i=0;v=(v=='hidden')?'visible':'hidden'}setTimeout(f,99)};f();
+  </script>
+  <noscript>
+   <meta content="0;url=https://twitter.com/intent/tweet?text=2017%20NikeID%20Kyrie%203%20%E2%80%98Yeezy%E2%80%99%20Black%20Pure%20Platinum%2FSolar%20Red%20For%20Sale%20http%3A%2F%2Fwww.hoopjordan.com%2Fhoopsale%2F2017-nikeid-kyrie-3-yeezy-black-pure-platinumsolar-red-for-sale%2F&amp;related=AddToAny,micropat" http-equiv="refresh"/>
+  </noscript>
+ </body>
+</html>
